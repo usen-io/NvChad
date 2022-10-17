@@ -3,7 +3,7 @@ local capabilities = require("plugins.configs.lspconfig").capabilities
 
 local lspconfig = require("lspconfig")
 local servers = {
-  "pylsp", "pyls-flake8", "pylsp-mypy", "pyls-isort"
+  "jedi_language_server"
 }
 
 for _, lsp in ipairs(servers) do

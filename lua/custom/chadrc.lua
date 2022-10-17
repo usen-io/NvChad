@@ -13,8 +13,8 @@ M.plugins = {
                 -- "bash-language-server",
 
                 -- python stuff
-                "python-lsp-server",
-                --"jedi-language-server",
+                --"python-lsp-server",
+                "jedi-language-server",
 
                 -- web dev
                 -- "css-lsp",
