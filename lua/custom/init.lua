@@ -1,3 +1,4 @@
+-- git rollback pointer
 -- fold configuration
 vim.opt.fillchars = [[eob: ,fold: ,foldopen:,foldsep: ,foldclose:]]
 --vim.opt.foldcolumn = '2'
