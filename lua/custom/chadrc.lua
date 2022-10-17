@@ -7,15 +7,14 @@ M.plugins = {
             ensure_installed = {
                 -- init stuff
                 -- "yaml-language-server",
-                -- "python-lsp-server",
                 -- "ansible-language-server",
-                -- "json-lsp",
                 -- "html-lsp",
                 -- "cmake-language-server",
                 -- "bash-language-server",
 
                 -- python stuff
-                "jedi-language-server",
+                "python-lsp-server",
+                --"jedi-language-server",
 
                 -- web dev
                 -- "css-lsp",
