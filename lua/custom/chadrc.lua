@@ -9,7 +9,7 @@ M.plugins = {
                 "lua-language-server",
                 "yaml-language-server",
                 "python-lsp-server",
-                "pyright",
+                "pylsp",
                 "clangd",
                 "ansible-language-server",
                 "lua-language-server",
