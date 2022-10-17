@@ -5,30 +5,26 @@ M.plugins = {
 
         ["williamboman/mason.nvim"] = {
             ensure_installed = {
-                -- lua stuff
-                "lua-language-server",
-                "yaml-language-server",
-                "python-lsp-server",
-                "clangd",
-                "ansible-language-server",
-                "lua-language-server",
-                "stylua",
-                "json-lsp",
-                "html-lsp",
-                "cmake-language-server",
-                "bash-language-server",
+                -- init stuff
+                -- "yaml-language-server",
+                -- "python-lsp-server",
+                -- "ansible-language-server",
+                -- "json-lsp",
+                -- "html-lsp",
+                -- "cmake-language-server",
+                -- "bash-language-server",
 
                 -- python stuff
                 "jedi-language-server",
 
                 -- web dev
-                "css-lsp",
-                "html-lsp",
-                "json-lsp",
+                -- "css-lsp",
+                -- "html-lsp",
+                -- "json-lsp",
 
                 -- shell
-                "shfmt",
-                "shellcheck",
+                -- "shfmt",
+                -- "shellcheck",
             },
         },
     },
