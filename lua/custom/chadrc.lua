@@ -9,7 +9,6 @@ M.plugins = {
                 "lua-language-server",
                 "yaml-language-server",
                 "python-lsp-server",
-                "pyright",
                 "clangd",
                 "ansible-language-server",
                 "lua-language-server",
@@ -18,6 +17,9 @@ M.plugins = {
                 "html-lsp",
                 "cmake-language-server",
                 "bash-language-server",
+
+                -- python stuff
+                "jedi-language-server",
 
                 -- web dev
                 "css-lsp",

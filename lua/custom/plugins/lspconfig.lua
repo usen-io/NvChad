@@ -3,7 +3,7 @@ local capabilities = require("plugins.configs.lspconfig").capabilities
 
 local lspconfig = require("lspconfig")
 local servers = {
-  "html", "cssls", "clangd", "jsonls", "pyright", "ansiblels", "bashls",
+  "html", "cssls", "clangd", "jsonls", "jedi_language_server", "ansiblels", "bashls",
   "dockerls", "jsonls", "pylsp", "luau_lsp"
 }
 
